@@ -3,3 +3,5 @@
 - 🌱 I’m currently learning more about Python, EEE stuff at uni, random stuff
 - 💞️ I’m looking to collaborate on cool stuff idek
 - 📫 How to reach me: georgytravers@gmail.com
+
+main git: <a href="git.jojeee.xyz">deez</a>
